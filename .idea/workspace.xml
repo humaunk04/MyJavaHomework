@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5d66d466-1349-407c-bf29-5ad3d6d29724" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YxuwWwcytEOdHZkd3Hba5jMIi5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.Exceptions">
+    <configuration name="AccessModifiers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java.homework.march.eleven.AccessModifiers" />
+      <module name="MyJavaHomework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java.homework.march.eleven.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccessModifiersTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java.homework.march.fifteen.AccessModifiersTwo" />
+      <module name="MyJavaHomework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java.homework.march.fifteen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EncapsulationMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java.homework.march.eleven.EncapsulationMain" />
+      <module name="MyJavaHomework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java.homework.march.eleven.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java.homework.march.eleven.Exceptions" />
+      <module name="MyJavaHomework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java.homework.march.eleven.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetterAndSetter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java.homework.march.eleven.GetterAndSetter" />
+      <module name="MyJavaHomework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java.homework.march.eleven.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Exceptions" />
+        <item itemvalue="Application.EncapsulationMain" />
+        <item itemvalue="Application.GetterAndSetter" />
+        <item itemvalue="Application.AccessModifiersTwo" />
+        <item itemvalue="Application.AccessModifiers" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d66d466-1349-407c-bf29-5ad3d6d29724" name="Default Changelist" comment="" />
+      <created>1583896805627</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583896805627</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="429" y="129" key="#Project_Structure" timestamp="1583896994393">
+      <screen x="0" y="23" width="1440" height="788" />
+    </state>
+    <state x="429" y="129" key="#Project_Structure/0.23.1440.788@0.23.1440.788" timestamp="1583896994393" />
+    <state width="1052" height="170" key="GridCell.Tab.0.bottom" timestamp="1583909472755">
+      <screen x="0" y="23" width="1440" height="788" />
+    </state>
+    <state width="1052" height="170" key="GridCell.Tab.0.bottom/0.23.1440.788@0.23.1440.788" timestamp="1583909472755" />
+    <state width="1052" height="170" key="GridCell.Tab.0.center" timestamp="1583909472753">
+      <screen x="0" y="23" width="1440" height="788" />
+    </state>
+    <state width="1052" height="170" key="GridCell.Tab.0.center/0.23.1440.788@0.23.1440.788" timestamp="1583909472753" />
+    <state width="1052" height="170" key="GridCell.Tab.0.left" timestamp="1583909472752">
+      <screen x="0" y="23" width="1440" height="788" />
+    </state>
+    <state width="1052" height="170" key="GridCell.Tab.0.left/0.23.1440.788@0.23.1440.788" timestamp="1583909472752" />
+    <state width="1052" height="170" key="GridCell.Tab.0.right" timestamp="1583909472754">
+      <screen x="0" y="23" width="1440" height="788" />
+    </state>
+    <state width="1052" height="170" key="GridCell.Tab.0.right/0.23.1440.788@0.23.1440.788" timestamp="1583909472754" />
+    <state x="483" y="297" key="com.intellij.ide.util.TipDialog" timestamp="1583896815688">
+      <screen x="0" y="23" width="1440" height="788" />
+    </state>
+    <state x="483" y="297" key="com.intellij.ide.util.TipDialog/0.23.1440.788@0.23.1440.788" timestamp="1583896815688" />
+    <state x="406" y="23" width="845" height="788" key="find.popup" timestamp="1583901770547">
+      <screen x="0" y="23" width="1440" height="788" />
+    </state>
+    <state x="406" y="23" width="845" height="788" key="find.popup/0.23.1440.788@0.23.1440.788" timestamp="1583901770547" />
+  </component>
+</project>
