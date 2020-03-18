@@ -1,6 +1,4 @@
-package java.homework.march.eleven;
-
-import java.util.function.DoubleToIntFunction;
+package homework.march.eleven;
 
 public class GetterAndSetter {
     String name;

@@ -1,4 +1,4 @@
-package java.homework.march.eleven;
+package homework.march.eleven;
 
 // private can be access different class if we used set and get.
 

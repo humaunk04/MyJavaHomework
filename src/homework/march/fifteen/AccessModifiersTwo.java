@@ -1,6 +1,6 @@
-package java.homework.march.fifteen;
+package homework.march.fifteen;
 
-import java.homework.march.eleven.AccessModifiersOne;
+import homework.march.eleven.AccessModifiersOne;
 
 public class AccessModifiersTwo extends AccessModifiersOne {
     public static void main (String [] args){

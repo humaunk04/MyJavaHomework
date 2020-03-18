@@ -1,4 +1,4 @@
-package java.homework.march.eleven;
+package homework.march.eleven;
 
 /* Java try and catch
 The try statement allows you to define a block of code to be tested for errors

@@ -1,4 +1,4 @@
-package java.homework.march.eleven;
+package homework.march.eleven;
 // access modifier are 1. default- no keyword required, 2. private, 3. protected and 4. public
 
 public class AccessModifiers {

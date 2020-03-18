@@ -1,4 +1,4 @@
-package java.homework.march.eleven;
+package homework.march.eleven;
 
 public class AccessModifiersOne {
 

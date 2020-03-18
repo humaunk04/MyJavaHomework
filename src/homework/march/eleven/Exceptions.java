@@ -1,4 +1,4 @@
-package java.homework.march.eleven;
+package homework.march.eleven;
 
 /* Exceptions are events that occur during the execution of programs that disrupt the normal
 flow of instructions (e.g. divide by zero, array access out of bound, etc.). In Java,
